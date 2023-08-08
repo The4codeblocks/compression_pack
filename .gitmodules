@@ -1,0 +1,6 @@
+[submodule "compression"]
+	path = compression
+	url = https://github.com/The4codeblocks/compression
+[submodule "compression_api"]
+	path = compression_api
+	url = https://github.com/The4codeblocks/compression_api
